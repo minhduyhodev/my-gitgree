@@ -62,8 +62,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name 'tranthaigin'
-          git config user.email '242965146+tranthaigin@users.noreply.github.com'
+          git config user.name 'minhduyhodev'
+          git config user.email 'duyhm.ce190378@gmail.com'
 
           for ((i=1; i<=count; i++)); do
             timestamp="$(date '+%Y-%m-%d %H:%M:%S %z')"
